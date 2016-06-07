@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, UserInterface!</string>
+    <string name="app_name">UI Examples</string>
+    <string name="showimage1">Image 1</string>
+    <string name="showimage2">Image 2</string>
+    <string name="showwhite">Use White</string>
+    <string name="showblack">Use Black</string>
+    <string name="showalert">Show Alert</string>
+    <color name="background">#FF0000</color>
+    <color name="background2">#00FF00</color>
+
+</resources>
